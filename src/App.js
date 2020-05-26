@@ -25,7 +25,7 @@ const App = () => {
         <p>{message}</p>
         <p>Beginning to Begin!</p>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          I edited <code>src/App.js</code> and saved it.
         </p>
         <a
           className="App-link"
